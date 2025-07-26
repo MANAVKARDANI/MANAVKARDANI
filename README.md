@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manavkardani" alt="manavkardani" /></a> </p>
 
-- 🔭 I’m currently working PHP **MY_PHONE**
+- 🔭 I’m currently working .Net **Clinic_Management**
 
-- 🌱 I’m currently learning PHP **MY_PHONE**
+- 🌱 I’m currently learning Flutter ****
 
 - 📫 How to reach me **manavkardani75@gmail.com**
 
