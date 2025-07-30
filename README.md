@@ -1,23 +1,19 @@
+
 <h1 align="center">Hi there 👋, I'm MANAV KARDANI!</h1>
 <h3 align="center">A passionate Frontend Developer from India 🇮🇳</h3>
 
 ---
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=manavkardani&theme=dracula&no-frame=true&no-bg=true" alt="Manav Kardani's GitHub Profile Trophies" />
-  </a>
-</p>
+### 👨‍🎓 About Me
 
----
-
-### About Me
-
+- 🎓 **B.Tech in Information Technology** from *RK University, Gujarat*
 - 🔭 I'm currently working on a **.NET Clinic Management** project.
 - 🌱 I'm actively learning **Flutter** to expand my mobile development skills.
 - 📫 You can reach me directly at: **manavkardani75@gmail.com**
 
+
 ---
+
 
 ### Let's Connect!
 
@@ -29,11 +25,9 @@
 
 ---
 
-### My Skillset
+### 🛠️ Skills & Tools
 
-Here are some of the languages and tools I work with:
-
-<p align="left">
+<p align="center">
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer" title="Bootstrap">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
   </a>
@@ -65,14 +59,25 @@ Here are some of the languages and tools I work with:
 
 ---
 
-### My GitHub Stats
+---
+
+### 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=manavkardani&show_icons=true&locale=en&layout=compact&theme=dracula&hide_border=true" alt="Manav Kardani's Top Languages" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api?username=manavkardani&show_icons=true&locale=en&theme=dracula&hide_border=true" alt="Manav Kardani's GitHub Stats" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=ShubhamGajera&theme=darkhub&row=1&column=6" alt="GitHub Trophies" />
+  </a>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manavkardani&theme=dracula&hide_border=true" alt="Manav Kardani's GitHub Streak" />
-</p>
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=MANAVKARDANI&show_icons=true&theme=react&count_private=true" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MANAVKARDANI&layout=compact&theme=react" />
+  <br />
+  <img width="50%" src="https://github-readme-streak-stats-taupe-tau.vercel.app?user=MANAVKARDANI&theme=react" />
+</div>
+
+---
